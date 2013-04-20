@@ -20,7 +20,7 @@ function a($sum1,$sum2){
 a(2,6);
 class Uzytkownik{	
 public $imie=null;	
-public $nazwisko=null';			
+public $nazwisko=null;			
 public function __construct($imie,$nazwisko)	{
 		$this->imie=$imie;
 		$this->nazwisko=$nazwisko;
